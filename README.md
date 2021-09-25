@@ -3,4 +3,4 @@
 - 🔭 I’m currently working on making a portfolio site for myself
 - 🌱 I’m currently learning React.js, Next.js, scss, and node.js
 - 📫 How to reach me: my discord @RickyE09#0959 
-- ⚡ Fun fact: I am 15
+
