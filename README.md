@@ -1,6 +1,4 @@
 # Hi there 👋
-### My name is Richard, I go by RickyE09 online
-- 🔭 I’m currently working on making a portfolio site for myself
-- 🌱 I’m currently learning React.js, Next.js, scss, and node.js
-- 📫 How to reach me: my discord @RickyE09#0959 
-
+### My name is Ricky, I go by RickyE09 online
+- I’m currently learning c++, python, and arduino
+- You can reach me through my discord @RickyE09#0959 or by sending an email to ricky@elinskas.org
